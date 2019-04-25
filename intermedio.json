@@ -1,0 +1,37 @@
+INTERMEDIO: [
+    {
+      '¿De qué colores son los diferentes contenedores de reciclaje que tenemos?': [
+        'Gris, Naranja, verde, amarillo, azul y rojo',
+        'Amarillo, verde, azul, gris, rojo, naranja, negro, rosa',
+        'Naranjo, verde y amarillo'
+      ],
+    },
+    {
+      '¿Qué se deposita en el contenedor amarillo?': [
+        'Plástico',
+        'Aluminio',
+        'Vidrio'
+      ],
+    },
+    {
+      '¿Qué se deposita en el contenedor azul?': [
+        'Cartón y papel',
+        'Vidrio',
+        'Orgánica'
+      ],
+    },
+    {
+      '¿Qué se deposita en el contenedor verde?': [
+        'Vidrio',
+        'Plástico',
+        'Poliestireno'
+      ],
+    },
+    {
+      '¿Qué se deposita en el contenedor naranja?': [
+        'Orgánico',
+        'Plástico',
+        'Vidrio'
+      ],
+    }
+]

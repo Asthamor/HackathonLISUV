@@ -1,0 +1,37 @@
+AVANZADO: [
+    {
+      '¿Qué es un punto limpio?': [
+        'Lugar que almacena residuos peligrosos que no deben tirarse al ambiente',
+        'Lugar donde se tratan las aguas provenientes del drenaje',
+        'Lugar que se encarga de promover el habito de reciclar para los niños'
+      ],
+    },
+    {
+      '¿Cómo se recicla el Tetrapak?': [
+        'Se separa con agitación',
+        'Se tira con el cartón',
+        'No se puede reciclar'
+      ],
+    },
+    {
+      'De los siguientes vidrios, ¿Cuáles se pueden reciclar?': [
+        'Botellas y frascos',
+        'Espejos',
+        'Vidrios de ventanas'
+      ],
+    },
+    {
+      'De los siguientes papeles, ¿Cuáles se pueden reciclar?': [
+        'Revistas, periódicos, cajas de cartón y papel en general',
+        'Papel higiénico, servilletas usadas',
+        'Papel plastificado, papel de carbón'
+      ],
+    },
+    {
+      'De los siguientes metales, ¿Cuáles se pueden reciclar?': [
+        'Latas, clavos, tubos de crema dental',
+        'Latas oxidadas',
+        'Pilas'
+      ],
+    }
+]

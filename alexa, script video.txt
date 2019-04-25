@@ -1,0 +1,10 @@
+Hola, este video es para presentar nuestra idea para el track 4 - educación de calidad el cual esta en alianza con amazon alexa. Para talent hackathon 2019.
+¿Cual es el problema que atacamos?
+- México es considerado el país que más produce basura en latinoamerica. Por lo que es indispensable bajar el indice de produción de basura e inculcar a sus habitantes hábitos de reciclaje que ayuden a manejar los residuos más facilmente y reducirlos.
+¿Qué proponemos?
+- Basados en las caracteristicas que nos brinda amazon alexa se creará una skill que proporcione:
+La enseñanza, retroalimentación, interacción, curiosidad y el habito del reciclaje.
+¿En qué consiste?
+En una VUI la cual ayude a las personas a tomar habitos de reciclaje y cuidados al medio ambiente, mediante trivias y lograr la retención de los usuarios por medio de puntos, niveles y distintivos.
+¿Cuál su proposito?
+El propósito principal es la enseñanza del tema del reciclaje para que de esta manera se inculque el hábito del mismo. No solo se concidera que un individuo utilice las funciones que brinda la skill, sino, que se cree oportuna la colaboración de todos los integrantes de la familia. La participación de la familia permitirá que estos habitos se conserven a pesar del paso del tiempo, además, que cada integrante buscará hacer lo que esté en sus posibilidades.

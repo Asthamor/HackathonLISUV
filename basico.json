@@ -1,0 +1,37 @@
+BASICO: [
+    {
+      '¿Cuántos años tarda en descomponerse el aluminio?': [
+        '80',
+        '30',
+        '50'
+      ],
+    },
+    {
+      '¿Cuántos años tarda en descomponerse el plástico?': [
+        '700',
+        '500',
+        '10'
+      ],
+    },
+    {
+      '¿Cuántos años tarada en descomponerse el vidrio?': [
+        '500',
+        '1000',
+        'Nunca'
+      ],
+    },
+    {
+      '¿Cuáles de estos materiales nunca se descomponen?': [
+        'Plastico',
+        'Vidrio',
+        'Poliestireno'
+      ],
+    },
+    {
+      '¿Qué es el reciclaje?': [
+        'Proceso que persigue transformar unos materiales a otros',
+        'Proceso que persigue transformar semillas en plantas',
+        'Proceso que persigue transformar árboles en papel'
+      ],
+    }
+]
